@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T08:17:59.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="5oP8hW23UqcEpRH-wWQ1" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-03T08:18:32.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="mjNU2vy_mQfjboVpTVsC" version="20.4.0" type="github">
   <diagram id="DWrOpcYeS5nHJEGncCVx" name="Page-1">
     <mxGraphModel dx="785" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -78,6 +78,9 @@
         </mxCell>
         <mxCell id="qryrSWfX81TUddF48sz_-18" value="Data Entryan Mahasiswa &lt;br&gt;dan Mata Kuliah" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qryrSWfX81TUddF48sz_-19" value="&lt;div&gt;Untuk edit, update, delete&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="535" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
