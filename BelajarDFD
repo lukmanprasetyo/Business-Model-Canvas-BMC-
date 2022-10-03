@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T08:18:32.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="mjNU2vy_mQfjboVpTVsC" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-03T08:21:33.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Uj-4GFD5YY6mzSRYOH-D" version="20.4.0" type="github">
   <diagram id="DWrOpcYeS5nHJEGncCVx" name="Page-1">
-    <mxGraphModel dx="785" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,8 +64,8 @@
         <mxCell id="qryrSWfX81TUddF48sz_-8" value="No_Mhs, Nama, Kode_Fak, Alamat_Ortu, &lt;br&gt;Kota_Ortu, SPP" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="120" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qryrSWfX81TUddF48sz_-9" value="No_Mhs, Kode_MataKuliah, &lt;br&gt;Semester, Tahun, SKS, Nilai" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="60" y="240" width="170" height="40" as="geometry" />
+        <mxCell id="qryrSWfX81TUddF48sz_-9" value="Untuk edit, update, delete" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="245" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qryrSWfX81TUddF48sz_-12" value="&lt;div&gt;Kode_MataKuliah&lt;/div&gt;&lt;div&gt;Nama_MataKuliah&lt;/div&gt;&lt;div&gt;SKS&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="360" width="120" height="60" as="geometry" />
