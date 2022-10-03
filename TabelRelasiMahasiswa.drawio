@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T05:12:21.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="bQQsNXQQaa9dLYC4oO_E" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-03T05:13:52.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="xIvaH9aoXy4dquuo0_1O" version="20.4.0" type="github">
   <diagram id="dQDRL2nj_YWnlfUewfiG" name="Page-1">
-    <mxGraphModel dx="362" dy="164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2480" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -330,8 +330,22 @@
         <mxCell id="zicQz6CJfmKbyCbvD3w5-52" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Kode_MataKuliah&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="630" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="zicQz6CJfmKbyCbvD3w5-102" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.45;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="zicQz6CJfmKbyCbvD3w5-54" target="zicQz6CJfmKbyCbvD3w5-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="643" />
+              <mxPoint x="500" y="706" />
+              <mxPoint x="490" y="706" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zicQz6CJfmKbyCbvD3w5-54" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Semester&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;rotation=-15;" vertex="1" parent="1">
           <mxGeometry x="500" y="600" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zicQz6CJfmKbyCbvD3w5-103" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;" edge="1" parent="1" source="zicQz6CJfmKbyCbvD3w5-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="760.0000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zicQz6CJfmKbyCbvD3w5-56" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Tahun&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;rotation=-15;" vertex="1" parent="1">
           <mxGeometry x="540" y="640" width="100" height="30" as="geometry" />
@@ -431,8 +445,18 @@
         <mxCell id="zicQz6CJfmKbyCbvD3w5-90" value="Kode_MataKuliah" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="870" y="930" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="zicQz6CJfmKbyCbvD3w5-104" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;" edge="1" parent="1" source="zicQz6CJfmKbyCbvD3w5-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="760.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zicQz6CJfmKbyCbvD3w5-96" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;SKS&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="560" y="675" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="zicQz6CJfmKbyCbvD3w5-105" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;" edge="1" parent="1" source="zicQz6CJfmKbyCbvD3w5-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="760.0000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zicQz6CJfmKbyCbvD3w5-97" value="Nilai" style="ellipse;whiteSpace=wrap;html=1;align=center;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="577.5" y="695.67" width="100" height="25" as="geometry" />
