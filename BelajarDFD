@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T08:34:40.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="HeFD7mTdGCwlJjjS7-eD" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T01:38:16.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="x_exgHVH4caEnwT3h-gX" version="20.4.0" type="github">
   <diagram id="DWrOpcYeS5nHJEGncCVx" name="Page-1">
-    <mxGraphModel dx="942" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1578" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,6 +81,9 @@
         </mxCell>
         <mxCell id="qryrSWfX81TUddF48sz_-19" value="&lt;div&gt;Untuk edit, update, delete&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="65" y="535" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Y5Gx4U7YTPhqJf5UeVz-1" value="&lt;b&gt;Mahasiswa&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="810" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
