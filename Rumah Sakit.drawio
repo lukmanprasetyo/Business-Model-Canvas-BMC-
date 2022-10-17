@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T07:50:54.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="HMdm_9kWFveTdj1dJb0S" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T07:59:04.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="MYceNSM4BJTi3UVRr67h" version="20.4.1" type="github">
   <diagram id="4Zpf0-BWA_fjd_u1uYxs" name="Halaman-1">
-    <mxGraphModel dx="1880" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2064" dy="1782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -672,26 +672,23 @@
         <mxCell id="b2p_P8Qh_fXZOz1itjOQ-110" value="&lt;b&gt;Dokter&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-111" value="No_Mhs, Nama, Kode_Fak, Alamat_Ortu, &lt;br&gt;Kota_Ortu, SPP" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1350" width="240" height="40" as="geometry" />
+        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-111" value="ID_Pasien, Nama_Pasien, Alamat_Pasien, &lt;br&gt;Jenis_Kelamin,Tgl_Lahir" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1350" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-112" value="Untuk edit, update, delete" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1475" width="160" height="30" as="geometry" />
+        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-113" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;ID_Pemeriksaan, Kode_Dokter, Kode_Kamar, ID_Pasien, &lt;br&gt;Kode_Pegawai, Kode_Penyakit, Tanggal_Pemeriksaan, Diagnosa&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1600" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-113" value="&lt;div&gt;Kode_MataKuliah&lt;/div&gt;&lt;div&gt;Nama_MataKuliah&lt;/div&gt;&lt;div&gt;SKS&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1590" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-114" value="No_Mhs&lt;br&gt;Kode_MataKuliah," style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1360" width="120" height="40" as="geometry" />
+        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-114" value="Nama_Dokter, Alamat_Dokter, &lt;br&gt;Jenis_Kelamin, Keahlian_Dokter" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1350" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b2p_P8Qh_fXZOz1itjOQ-115" value="Data Kartu Hasil Studi Mahasiswa" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="1664" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-116" value="Data Entryan Mahasiswa &lt;br&gt;dan Mata Kuliah" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1470" width="160" height="40" as="geometry" />
+          <mxGeometry x="480" y="1600" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2p_P8Qh_fXZOz1itjOQ-117" value="&lt;div&gt;Untuk edit, update, delete&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="65" y="1765" width="160" height="30" as="geometry" />
+          <mxGeometry x="190" y="1780" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-118" value="Diagram Konteks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1265" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
