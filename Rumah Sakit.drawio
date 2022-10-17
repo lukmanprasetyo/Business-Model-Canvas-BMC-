@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T07:10:27.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="GxyVTLprpsybRSCa56vc" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T07:13:50.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6j9fcWsOWIBgcZgihZDS" version="20.4.1" type="github">
   <diagram id="4Zpf0-BWA_fjd_u1uYxs" name="Halaman-1">
-    <mxGraphModel dx="2500" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2064" dy="1782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,7 +151,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i0vCOCOfqdjtQRk0yR_S-89" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;Kode_Pegawai&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="890" y="700" width="100" height="40" as="geometry" />
+          <mxGeometry x="890" y="670" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i0vCOCOfqdjtQRk0yR_S-92" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="i0vCOCOfqdjtQRk0yR_S-93" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -215,7 +215,7 @@
         <mxCell id="i0vCOCOfqdjtQRk0yR_S-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="i0vCOCOfqdjtQRk0yR_S-111" target="i0vCOCOfqdjtQRk0yR_S-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i0vCOCOfqdjtQRk0yR_S-111" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;ID_Pasien&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="i0vCOCOfqdjtQRk0yR_S-111" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;Nama_Pegawai&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="920" y="740" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i0vCOCOfqdjtQRk0yR_S-114" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -501,7 +501,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-62" value="Alamat_Pegawai" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="b2p_P8Qh_fXZOz1itjOQ-60">
+        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-62" value="JenisKelamin_Pegawai" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="b2p_P8Qh_fXZOz1itjOQ-60">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -514,7 +514,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-65" value="Jenis_Kelamin" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="b2p_P8Qh_fXZOz1itjOQ-63">
+        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-65" value="Shift_Kerja" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="b2p_P8Qh_fXZOz1itjOQ-63">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -607,6 +607,9 @@
         </mxCell>
         <mxCell id="b2p_P8Qh_fXZOz1itjOQ-89" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;Diagnosa&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="380" y="1080" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-96" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;Nama_Pegawai&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="980" y="800" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
