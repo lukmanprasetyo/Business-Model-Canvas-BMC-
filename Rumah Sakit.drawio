@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T08:40:49.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="vodAjXLf-wMsJ0lb7vLn" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T08:46:20.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="kgXkZMXU72HdAAOW1b98" version="20.4.1" type="github">
   <diagram id="4Zpf0-BWA_fjd_u1uYxs" name="Halaman-1">
-    <mxGraphModel dx="2500" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -533,7 +533,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b2p_P8Qh_fXZOz1itjOQ-76" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;Tgl_Pemeriksaan&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1070" width="100" height="40" as="geometry" />
+          <mxGeometry x="340" y="1100" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b2p_P8Qh_fXZOz1itjOQ-79" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="475" y="160" width="30" height="30" as="geometry">
@@ -578,10 +578,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b2p_P8Qh_fXZOz1itjOQ-91" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="b2p_P8Qh_fXZOz1itjOQ-89" target="i0vCOCOfqdjtQRk0yR_S-71">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="1030" />
+              <mxPoint x="500" y="1030" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="b2p_P8Qh_fXZOz1itjOQ-89" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;Diagnosa&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1080" width="100" height="40" as="geometry" />
+          <mxGeometry x="290" y="1050" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b2p_P8Qh_fXZOz1itjOQ-97" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b2p_P8Qh_fXZOz1itjOQ-96">
           <mxGeometry relative="1" as="geometry">
