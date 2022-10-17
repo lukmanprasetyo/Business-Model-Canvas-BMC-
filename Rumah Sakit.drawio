@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T07:13:50.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6j9fcWsOWIBgcZgihZDS" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T07:14:22.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="gZa8EA2dOUVaJkwKbjnt" version="20.4.1" type="github">
   <diagram id="4Zpf0-BWA_fjd_u1uYxs" name="Halaman-1">
-    <mxGraphModel dx="2064" dy="1782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1640" dy="1572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -551,11 +551,6 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-80" value="Shift_Kerja" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="505" y="230" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="b2p_P8Qh_fXZOz1itjOQ-81" value="Tanggal_Pemeriksaan" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="505" y="260" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
@@ -591,12 +586,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-87" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b2p_P8Qh_fXZOz1itjOQ-86" target="i0vCOCOfqdjtQRk0yR_S-71">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-86" value="&lt;b&gt;Shift_Kerja&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1140" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="b2p_P8Qh_fXZOz1itjOQ-88" value="Diagnosa" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="505" y="300" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
@@ -608,7 +597,16 @@
         <mxCell id="b2p_P8Qh_fXZOz1itjOQ-89" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;Diagnosa&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="380" y="1080" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-96" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;Nama_Pegawai&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-97" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b2p_P8Qh_fXZOz1itjOQ-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="790" />
+              <mxPoint x="790" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-96" value="&lt;span style=&quot;text-align: left;&quot;&gt;JenisKelamin_Pegawai&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="980" y="800" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
