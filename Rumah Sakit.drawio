@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T08:31:41.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="AhcT-2eBGZ_aEfYSOLRp" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T08:37:45.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="UO5VgWAnf-VCzo1aEmCz" version="20.4.1" type="github">
   <diagram id="4Zpf0-BWA_fjd_u1uYxs" name="Halaman-1">
     <mxGraphModel dx="2500" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -569,8 +569,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="130" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="20" y="90" />
-              <mxPoint x="470" y="90" />
+              <mxPoint x="20" y="110" />
+              <mxPoint x="470" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -578,11 +578,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="60" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="-165" />
-              <mxPoint x="200" y="30" />
-              <mxPoint x="420" y="30" />
-              <mxPoint x="420" y="40" />
-              <mxPoint x="470" y="40" />
+              <mxPoint x="20" y="30" />
+              <mxPoint x="480" y="30" />
             </Array>
           </mxGeometry>
         </mxCell>
