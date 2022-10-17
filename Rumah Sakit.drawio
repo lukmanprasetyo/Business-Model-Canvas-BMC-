@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T08:03:05.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="LYpWjSrwcdGLd81Ignif" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T08:05:19.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="5baR6a1xj51BKaxfIg0O" version="20.4.1" type="github">
   <diagram id="4Zpf0-BWA_fjd_u1uYxs" name="Halaman-1">
     <mxGraphModel dx="2064" dy="1782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -711,7 +711,7 @@
         <mxCell id="b2p_P8Qh_fXZOz1itjOQ-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="1" source="b2p_P8Qh_fXZOz1itjOQ-126" target="b2p_P8Qh_fXZOz1itjOQ-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-126" value="Sistem Informasi Akademik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-126" value="Sistem Administrasi Rumah Sakit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b2p_P8Qh_fXZOz1itjOQ-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="b2p_P8Qh_fXZOz1itjOQ-128" target="b2p_P8Qh_fXZOz1itjOQ-138">
@@ -721,7 +721,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-128" value="Mahasiswa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-128" value="Pasien" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b2p_P8Qh_fXZOz1itjOQ-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="b2p_P8Qh_fXZOz1itjOQ-132" target="b2p_P8Qh_fXZOz1itjOQ-143">
@@ -747,7 +747,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-132" value="Mata Kuliah" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-132" value="Administrasi&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b2p_P8Qh_fXZOz1itjOQ-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="b2p_P8Qh_fXZOz1itjOQ-135" target="b2p_P8Qh_fXZOz1itjOQ-141">
@@ -766,7 +766,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-135" value="KRS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-135" value="Pemeriksaan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b2p_P8Qh_fXZOz1itjOQ-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.031;entryY=0.643;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="1" source="b2p_P8Qh_fXZOz1itjOQ-137" target="b2p_P8Qh_fXZOz1itjOQ-139">
@@ -776,10 +776,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-137" value="KHS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-137" value="Kamar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-138" value="Memilih Mata Kuliah" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b2p_P8Qh_fXZOz1itjOQ-138" value="Mandaftar&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="2160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b2p_P8Qh_fXZOz1itjOQ-139" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Data Kartu Hasil Studi Mahasiswa&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
