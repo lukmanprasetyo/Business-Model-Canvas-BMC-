@@ -1,9 +1,143 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T05:04:39.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.15" etag="H4fQPJ5L8Ngnb5JeNH-T" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-29T05:55:49.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WPzPTjAlm0bgGpP88p1S" version="22.1.15" type="github">
   <diagram name="Page-1" id="A8tIL5qwvsV8ImmzWxlp">
-    <mxGraphModel>
+    <mxGraphModel dx="413" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0g45yjQPnChNYlEBqkuE-1" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="730" height="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Sistem Yang Sedang Berjalan&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="120" as="sourcePoint" />
+            <mxPoint x="810" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="1250" as="sourcePoint" />
+            <mxPoint x="120" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="160" as="sourcePoint" />
+            <mxPoint x="814" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Pasien&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1260" as="sourcePoint" />
+            <mxPoint x="320" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="1260" as="sourcePoint" />
+            <mxPoint x="578" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Admin&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="120" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Dokter&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="120" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0g45yjQPnChNYlEBqkuE-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-18" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-34" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="132.5" y="332.5" width="175" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-21" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Mencari Informasi Masalah Gigi yang dialami&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="148.75" y="343.75" width="142.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-35" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="373.75" y="310" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-30" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Memberikan Informasi Masalah gigi, Jadwal Perawatan, Formulir dan prosedur perawatan&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="332.5" width="142.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.026;entryY=0.649;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0g45yjQPnChNYlEBqkuE-34" target="0g45yjQPnChNYlEBqkuE-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="430" as="sourcePoint" />
+            <mxPoint x="460" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-41" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="430" as="sourcePoint" />
+            <mxPoint x="460" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0g45yjQPnChNYlEBqkuE-42" target="0g45yjQPnChNYlEBqkuE-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-42" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="132.5" y="460" width="175" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-43" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Pasien Mengisi Formulir Jadwal Perawatan&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="148.75" y="471.25" width="142.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-44" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="175" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="0g45yjQPnChNYlEBqkuE-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="430" as="sourcePoint" />
+            <mxPoint x="230" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-48" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Admin Mengatur jadwal kedatangan pasien&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="376.25" y="471.25" width="142.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-54" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="132.5" y="610" width="175" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="0g45yjQPnChNYlEBqkuE-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="447" y="560" as="sourcePoint" />
+            <mxPoint x="340" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-61" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="560" as="sourcePoint" />
+            <mxPoint x="446.96" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-63" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="560" as="sourcePoint" />
+            <mxPoint x="220" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-66" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="610" width="175" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-64" value="Pasien datang sesuai jadwal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="148.75" y="622.5" width="142.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-67" value="Pasien datang sesuai jadwal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="376.25" y="621.25" width="142.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="0g45yjQPnChNYlEBqkuE-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.061;entryY=0.454;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0g45yjQPnChNYlEBqkuE-54" target="0g45yjQPnChNYlEBqkuE-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
