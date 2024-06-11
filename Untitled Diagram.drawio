@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T17:46:48.863Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="5p7OoAceW4Uwz6dEJ_ll" version="24.5.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-06-11T17:53:40.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="stFn5UIOc3E6gBPgXYGB" version="24.5.2" type="github" pages="8">
   <diagram name="Page-1" id="A8tIL5qwvsV8ImmzWxlp">
     <mxGraphModel dx="887" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2369,7 +2369,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I6jpIhB7L_-BB15h6Ed1" name="Page-8">
-    <mxGraphModel dx="784" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="915" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2444,8 +2444,11 @@
         <mxCell id="ysj3oBYSLsld0DkYvhcm-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="384.99999999999994" y="225.63" width="120" height="35.63" as="geometry" />
         </mxCell>
-        <mxCell id="ysj3oBYSLsld0DkYvhcm-12" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Chat Melalui Wa&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="559.9999999999999" y="246.88" width="120" height="31.25" as="geometry" />
+        <mxCell id="7Bk9Haa2CL25CVPEqfI--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ysj3oBYSLsld0DkYvhcm-12" target="7Bk9Haa2CL25CVPEqfI--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysj3oBYSLsld0DkYvhcm-12" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Deteksi Penyakit&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="384.9999999999999" y="227.82" width="120" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="ysj3oBYSLsld0DkYvhcm-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Menerima dan menginformasikan masalah gigi serta Prosedur&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="966.87" y="130" width="137.5" height="24.38" as="geometry" />
@@ -2510,6 +2513,12 @@
         </mxCell>
         <mxCell id="ysj3oBYSLsld0DkYvhcm-27" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Diagnosa Gigi&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;di Web&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
           <mxGeometry x="234.9999999999999" y="225.63" width="120" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="7Bk9Haa2CL25CVPEqfI--2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384.99999999999994" y="304.37" width="120" height="35.63" as="geometry" />
+        </mxCell>
+        <mxCell id="7Bk9Haa2CL25CVPEqfI--3" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Menampilkan Hasil&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="384.9999999999999" y="304.37" width="120" height="31.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
