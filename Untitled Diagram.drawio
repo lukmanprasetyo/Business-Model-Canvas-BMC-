@@ -2926,8 +2926,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of online habis sempro" id="6Wno2Y8f1-AysiXxoUc-">
-    <mxGraphModel dx="521" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram name="Online habis sidang" id="6Wno2Y8f1-AysiXxoUc-">
+    <mxGraphModel dx="2197" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Gj4MhnVXRxYk44_bssVa-0" />
         <mxCell id="Gj4MhnVXRxYk44_bssVa-1" parent="Gj4MhnVXRxYk44_bssVa-0" />
@@ -3036,10 +3036,11 @@
             <mxPoint x="1921" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gj4MhnVXRxYk44_bssVa-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Gj4MhnVXRxYk44_bssVa-1" source="Gj4MhnVXRxYk44_bssVa-26">
+        <mxCell id="Gj4MhnVXRxYk44_bssVa-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Gj4MhnVXRxYk44_bssVa-1" source="Gj4MhnVXRxYk44_bssVa-26" target="Gj4MhnVXRxYk44_bssVa-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1924" y="1050" />
+              <mxPoint x="1924" y="1020" />
+              <mxPoint x="1673" y="1020" />
             </Array>
             <mxPoint x="1490" y="1050" as="targetPoint" />
           </mxGeometry>
@@ -3049,19 +3050,6 @@
         </mxCell>
         <mxCell id="Gj4MhnVXRxYk44_bssVa-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.486;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Gj4MhnVXRxYk44_bssVa-1" source="Gj4MhnVXRxYk44_bssVa-23" target="Gj4MhnVXRxYk44_bssVa-26">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Gj4MhnVXRxYk44_bssVa-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Gj4MhnVXRxYk44_bssVa-1" source="Gj4MhnVXRxYk44_bssVa-29" target="Gj4MhnVXRxYk44_bssVa-34">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1417" y="1102" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Gj4MhnVXRxYk44_bssVa-29" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="Gj4MhnVXRxYk44_bssVa-1">
-          <mxGeometry x="1342.8100000000002" y="1020" width="148.75" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Gj4MhnVXRxYk44_bssVa-30" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Formulir perawatan&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="Gj4MhnVXRxYk44_bssVa-1">
-          <mxGeometry x="1342.82" y="1042.8099999999997" width="150" height="24.38" as="geometry" />
         </mxCell>
         <mxCell id="Gj4MhnVXRxYk44_bssVa-31" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Dokter menambahkan kondisi gigi, serta biaya perawatan&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="Gj4MhnVXRxYk44_bssVa-1">
           <mxGeometry x="1858.44" y="525.44" width="130.63" height="50" as="geometry" />
